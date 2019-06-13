@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchButton">
+        <attr name="switchBackground" format="reference" />
+        <attr name="switchThumbPadding" format="dimension|reference" />
+        <attr name="switchThumbBackground" format="reference" />
+        <attr name="switchAnimationDuration" format="integer" />
+    </declare-styleable>
+</resources>
